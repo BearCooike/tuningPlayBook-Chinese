@@ -1711,7 +1711,7 @@ short description of the study.*
     and is convenient for the people doing it. Untracked experiments might as
     well not exist.
 
-### Batch normalization implementation details
+### Batch normalization的实现细节
 
 ***Summary:*** *Nowadays batch norm can often be replaced with LayerNorm, but in
 cases where it cannot, there are tricky details when changing the batch size or
